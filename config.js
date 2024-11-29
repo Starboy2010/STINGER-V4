@@ -1,15 +1,15 @@
-require("./database/module")
+yrequire("./database/module")
 
 //GLOBAL PAYMENT
 global.storename = "STINGER-V4"
-global.dana = "2349047797993"
+global.dana = "2348033956837"
 global.qris = "https://i.ibb.co/BnYRXcw/STINGER-V4.jpg"
 
 
 // GLOBAL SETTING
-global.owner = "2349047797993"
+global.owner = "2348033956837"
 global.namabot = " S҉ T҉ I҉ N҉ G҉ E҉ R҉- V҉ 4҉"
-global.nomorbot = "2349047797993"
+global.nomorbot = "2348033956837"
 global.namaCreator = "ES TEAMS"
 global.linkyt = "https://youtube.com/@esteams"
 global.autoJoin = false
